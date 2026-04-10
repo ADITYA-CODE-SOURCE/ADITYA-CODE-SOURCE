@@ -22,13 +22,9 @@ Always exploring better ways to build fast, resilient, and efficient software.
 
 <div align="center">
 
-<h2>
-  <span style="background: linear-gradient(90deg,#00f5a0,#00d9f5,#7f5af0); -webkit-background-clip: text; color: transparent;">
-    ⚡ Tech I Work With
-  </span>
-</h2>
+## ⚡ Tech I Work With
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;Crafting+Modern+Web+Apps;Clean+Code+%E2%9A%A1+High+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=00F5A0&center=true&width=420&lines=Java+|+Spring+Boot+|+REST+APIs;CouchDB+|+PostgreSQL+|+OAuth2/JWT;Backend+Development+|+Testing" />
 
 </div>
 
@@ -36,23 +32,70 @@ Always exploring better ways to build fast, resilient, and efficient software.
 
 <div align="center">
 
-### 🚀 Languages  
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,html,css&theme=dark" />
+### 🎯 Core Development
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=dark" />
 
-<br/><br/>
+<div style="color: #8b949e; font-size: 13px; margin-top: 5px;">Java · Spring Boot · Maven · Gradle</div>
 
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+</div>
 
-<br/><br/>
+<br/>
 
-### ⚙️ Backend & Systems  
-<img src="https://skillicons.dev/icons?i=nodejs,go,linux,docker&theme=dark" />
+<div align="center">
 
-<br/><br/>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=couchdb,postgresql,mongodb,redis&theme=dark" />
 
-### 🛠 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<div style="color: #8b949e; font-size: 13px; margin-top: 5px;">CouchDB · PostgreSQL · MongoDB · Redis</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔐 Security & Auth
+<img src="https://skillicons.dev/icons?i=keycloak,oauth&theme=dark" />
+
+<div style="color: #8b949e; font-size: 13px; margin-top: 5px;">OAuth2 · JWT · Keycloak</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ☁️ DevOps
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions&theme=dark" />
+
+<div style="color: #8b949e; font-size: 13px; margin-top: 5px;">Docker · AWS · GitHub Actions</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,intellij&theme=dark" />
+
+<div style="color: #8b949e; font-size: 13px; margin-top: 5px;">Git · VS Code · Postman · IntelliJ</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💼 Backend Skills
+
+| APIs & Integration | Data & Sync | Quality |
+|:---:|:---:|:---:|
+| ✓ REST APIs | ✓ Database Integration | ✓ JUnit |
+| ✓ OAuth2/JWT | ✓ Data Sync | ✓ Mockito |
+| ✓ Swagger/OpenAPI | ✓ Error Handling | ✓ Integration Tests |
+
+</div>
 
 </div>
 
