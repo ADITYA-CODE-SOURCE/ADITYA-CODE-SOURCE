@@ -110,21 +110,25 @@ Always exploring better ways to build fast, resilient, and efficient software.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ADITYA-CODE-SOURCE&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&border_color=00f5a0&border_radius=12&title_color=00f5a0&text_color=c9d1d9" height="170" alt="stats graph" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-CODE-SOURCE&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&border_color=7f5af0&border_radius=12&title_color=7f5af0&text_color=c9d1d9" height="170" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ADITYA-CODE-SOURCE&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&bg_color=0d1117&border_color=00f5a0&border_radius=12&title_color=00f5a0&text_color=c9d1d9&cache_seconds=86400" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-CODE-SOURCE&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&border_color=7f5af0&border_radius=12&title_color=7f5af0&text_color=c9d1d9&cache_seconds=86400" height="170" />
+
+</div>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-CODE-SOURCE&theme=transparent&hide_border=true&bg_color=0d1117&border_color=00d9f5&ring=00d9f5&fire=ff7a18&currStreakLabel=ff7a18&sideNums=c9d1d9&sideLabels=c9d1d9&title_color=00d9f5&dates=c9d1d9" alt="streak graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-CODE-SOURCE&theme=transparent&hide_border=true&bg_color=0d1117&border_color=00d9f5&ring=00d9f5&fire=ff7a18&currStreakLabel=ff7a18&sideNums=c9d1d9&sideLabels=c9d1d9&title_color=00d9f5&dates=c9d1d9&cache_seconds=86400" alt="streak stats" />
 
 </div>
 
 <div align="center" style="margin: 20px 0;">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA-CODE-SOURCE&bg_color=0d1117&color=00f5a0&line=00f5a0&point=7f5af0&area=true&area_color=00f5a033&hide_border=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA-CODE-SOURCE&bg_color=0d1117&color=00f5a0&line=00f5a0&point=7f5af0&area=true&area_color=00f5a033&hide_border=true&cache_seconds=86400" alt="activity graph" />
 
 </div>
 
