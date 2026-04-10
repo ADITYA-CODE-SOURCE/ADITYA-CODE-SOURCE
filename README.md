@@ -20,29 +20,47 @@ Always exploring better ways to build fast, resilient, and efficient software.
 
 ---
 
-### 🧠 Tech Stack
+<div align="center">
 
-#### 🚀 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,js,ts,html,css" />
-</p>
+<h2>
+  <span style="background: linear-gradient(90deg,#00f5a0,#00d9f5,#7f5af0); -webkit-background-clip: text; color: transparent;">
+    ⚡ Tech I Work With
+  </span>
+</h2>
 
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;Crafting+Modern+Web+Apps;Clean+Code+%E2%9A%A1+High+Performance" />
 
-#### ⚙️ Backend & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,go" />
-</p>
-
-#### 🛠 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</div>
 
 ---
+
+<div align="center">
+
+### 🚀 Languages  
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,html,css&theme=dark" />
+
+<br/><br/>
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+
+<br/><br/>
+
+### ⚙️ Backend & Systems  
+<img src="https://skillicons.dev/icons?i=nodejs,go,linux,docker&theme=dark" />
+
+<br/><br/>
+
+### 🛠 Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:7f5af0&height=2&section=header"/>
+</p>
 
 <!-- ===================== STATS SECTION ===================== -->
 <div align="center">
