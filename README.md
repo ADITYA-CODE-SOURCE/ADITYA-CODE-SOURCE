@@ -101,45 +101,6 @@ Always exploring better ways to build fast, resilient, and efficient software.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:7f5af0&height=2&section=header"/>
-</p>
-
-<!-- ===================== STATS SECTION ===================== -->
-<div align="center">
-
-### 📊 GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ADITYA-CODE-SOURCE&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&bg_color=0d1117&border_color=00f5a0&border_radius=12&title_color=00f5a0&text_color=c9d1d9&cache_seconds=86400" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-CODE-SOURCE&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&border_color=7f5af0&border_radius=12&title_color=7f5af0&text_color=c9d1d9&cache_seconds=86400" height="170" />
-
-</div>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-CODE-SOURCE&theme=transparent&hide_border=true&bg_color=0d1117&border_color=00d9f5&ring=00d9f5&fire=ff7a18&currStreakLabel=ff7a18&sideNums=c9d1d9&sideLabels=c9d1d9&title_color=00d9f5&dates=c9d1d9&cache_seconds=86400" alt="streak stats" />
-
-</div>
-
-<div align="center" style="margin: 20px 0;">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA-CODE-SOURCE&bg_color=0d1117&color=00f5a0&line=00f5a0&point=7f5af0&area=true&area_color=00f5a033&hide_border=true&cache_seconds=86400" alt="activity graph" />
-
-</div>
-
-<div align="center" style="margin: 15px 0;">
-
-<img src="https://komarev.com/ghpvc/?username=ADITYA-CODE-SOURCE&label=Profile%20Views&color=0e75b6&style=flat&label_color=0d1117&bg_color=0d1117&border_color=00f5a0" />
-
-</div>
-
----
-
 <div align="center" style="height: 2px; width: 60%; background: linear-gradient(90deg, transparent, #00f5a0, #00d9f5, #7f5af0, transparent); margin: 30px auto;"></div>
 
 ---
